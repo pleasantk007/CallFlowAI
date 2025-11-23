@@ -1,0 +1,6 @@
+{
+  "defaultLanguage": "en",
+  "timezone": "America/New_York",
+  "maxCallDurationSeconds": 600,
+  "enableTranscripts": true
+}
