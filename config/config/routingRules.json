@@ -1,0 +1,11 @@
+{
+  "urgentKeywords": [
+    "urgent",
+    "emergency",
+    "arrested",
+    "hospital",
+    "accident"
+  ],
+  "urgentForwardNumber": "+1XXXXXXXXXX",
+  "fallbackVoicemailMessage": "We were unable to connect you right away, but your message has been marked urgent. Someone will contact you as soon as possible."
+}
