@@ -1,0 +1,9 @@
+{
+  "nameField": "contact_name",
+  "phoneField": "phone",
+  "emailField": "email",
+  "reasonField": "call_reason",
+  "urgencyField": "urgency",
+  "sourceField": "source",
+  "sourceValue": "CallFlow AI"
+}
