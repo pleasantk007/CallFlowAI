@@ -1,0 +1,15 @@
+{
+  "name": "callflowai-core",
+  "version": "1.0.0",
+  "description": "Backend core for CallFlow AI - Your Business Concierge",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node api/voiceInbound.js",
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "dependencies": {
+    "axios": "^1.7.0",
+    "twilio": "^4.0.0",
+    "openai": "^4.0.0"
+  }
+}
