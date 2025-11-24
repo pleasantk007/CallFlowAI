@@ -9,7 +9,7 @@ export async function POST(req) {
   return new Response(twiml, {
     status: 200,
     headers: {
-      'Content-Type': 'text/xml',
+      "Content-Type": "text/xml",
     },
   });
 }
