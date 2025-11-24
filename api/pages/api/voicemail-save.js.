@@ -1,3 +1,1 @@
-export default async function handler(req, res) {
-  res.status(200).send('<Response><Say>Voicemail saved successfully.</Say></Response>');
-}
+commit: clearing out incorrect file – KP
